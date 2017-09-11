@@ -1,0 +1,19 @@
+{
+  "name": "case",
+  "version": "1.0.0",
+  "description": "web project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fxromario/demo-repository.git"
+  },
+  "author": "Roman Kazakov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fxromario/demo-repository/issues"
+  },
+  "homepage": "https://github.com/fxromario/demo-repository#readme"
+}
